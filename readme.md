@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/wL1piFp.png"/>
+![logo](https://user-images.githubusercontent.com/41172933/160193998-cb892ea9-6eb1-472d-aa97-539fc92ba8ed.png)
 
 <h2 align="center">
 <br/>🏆 Desafios realizados durante a Trilha React da Rocketseat<br/><br/>
