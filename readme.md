@@ -45,3 +45,16 @@
   <img width="auto" src="https://user-images.githubusercontent.com/41172933/161864160-a74dcd5c-175c-4c39-a168-f2aa48587a93.gif"/>
 </p>
 <br> 
+  
+  
+### [Desafio 04 - Refactoring de classes e typescript](https://github.com/braiancalot/rocketseat-react-desafio-04)
+
+<h3>&ensp;:speech_balloon: Sobre o desafio</h3
+
+ &ensp; &ensp;*GoRestaurant* é uma aplicação que exibe pratos de um restaurante, onde é possível adicionar, editar e remover pratos.
+<br> 
+
+<p align="center">
+  <img width="auto" src="https://user-images.githubusercontent.com/41172933/162825960-cd3f6952-ec52-4a43-87ce-ba720bbbe243.gif"/>
+</p>
+<br> 
